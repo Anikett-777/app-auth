@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+E:\Backend Practice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2942439484.index
+\Hospital_management_System_02\src\main\resources
+E:\Backend Practice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\236526607.index
+\Hospital_management_System_02\src\main\resources
